@@ -1,4 +1,4 @@
-- 推荐系统中的算法
+- 推荐系统之算法
   - [入门简介](Introduction.md)
   - [内容概要](Context.md) 
   - [算法列表](AlgorithmList.md)  
