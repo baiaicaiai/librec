@@ -7,7 +7,7 @@
   - [数据文件格式](DataFileFormat.md)  
   - [数据模型](DataModel.md)  
   - [评估器](Evaluator.md)
-  - [数据集](FilmTrust.md)
+  - [FilmTrust数据集](FilmTrust.md)
   - [过滤器](Filter.md)
   - [Librec文档](LibrecDocument.md)
   - [推荐算法](Recommender.md)
