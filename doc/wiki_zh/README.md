@@ -1,3 +1,17 @@
+- 推荐系统中的算法
+  - [入门简介](Introduction.md)
+  - [内容概要](Context.md) 
+  - [算法列表](AlgorithmList.md)  
+  - [命令行演示](CLIWalkthrough.md)  
+  - [配置列表](ConfigurationList.md) 
+  - [数据文件格式](DataFileFormat.md)  
+  - [数据模型](DataModel.md)  
+  - [评估器](Evaluator.md)
+  - [数据集](FilmTrust.md)
+  - [过滤器](Filter.md)
+  - [Librec文档](LibrecDocument.md)
+  - [推荐算法](Recommender.md)
+
 # LibRec
 [LibRec](http://www.librec.net)是一个高级的推荐系统的Java开源库，有70多个推荐算法，可以有效地解决等级和排名问题。推荐系统是一个典型的机器学习和大数据的应用，它被用来提供个性化的推荐。作为推荐算法的实现，LibRec在模块化、实现和可用性方面做了很多改进。此外，推荐性能进一步增强。
 
