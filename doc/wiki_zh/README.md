@@ -66,4 +66,7 @@
   + [CDAE (WSDM'16)](https://mp.weixin.qq.com/s/qwDIvXlpP5UIBTwtpqhYsg)
   + [FISM (KDD'13)](https://mp.weixin.qq.com/s/gHKOArFzUM9Zn8hEsA-1wQ)
   + [HFT (RecSys'13)](https://mp.weixin.qq.com/s/7yjA3_oCI5nSH4tv04BIhQ)
+  + [iCD (WWW'17)](http://mp.weixin.qq.com/s/xnJq-aBAZW22tP7RQylKLw)
+  + [ConvMF (RecSys'16)](http://mp.weixin.qq.com/s/bu9rSno_WmHHisE3lzYnqg)
+  + [DeepCoNN (WSDM'17)](https://mp.weixin.qq.com/s/mnGuPGtdw9d1BzeNpoYYqw)
 
