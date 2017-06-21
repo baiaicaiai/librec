@@ -2,12 +2,4 @@
    
 	"name": "推荐系统之算法"
 	"introduction": "LibRec是一个高级的推荐系统的Java开源库，有70多个推荐算法，可以有效地解决等级和排名问题。"
-	"path":
-		 {
-			"content": "./doc/wiki_zh"
-			"images": "./doc/wiki_zh/images"
-			"readme": "./doc/wiki_zh/README.md"
-			"toc": "./doc/wiki_zh/TOC.md"
-	         }
-
 }
