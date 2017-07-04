@@ -71,4 +71,5 @@
   + [iCD (WWW'17)](http://mp.weixin.qq.com/s/xnJq-aBAZW22tP7RQylKLw)
   + [ConvMF (RecSys'16)](http://mp.weixin.qq.com/s/bu9rSno_WmHHisE3lzYnqg)
   + [DeepCoNN (WSDM'17)](https://mp.weixin.qq.com/s/mnGuPGtdw9d1BzeNpoYYqw)
+  + [Collaborative Metric Learning (WWW'17)](http://mp.weixin.qq.com/s/T-yCjebTzc_t6D4o5gyQLQ)
 
